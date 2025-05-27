@@ -1,0 +1,28 @@
+# Love Letter Data  
+Date: 2025-02-14  
+To: My Love  
+
+My heart beats for you 1000 times a day. I’ve thought of you 365 times this year.  
+You make me happy 24/7, and I love you to infinity.  
+
+# Gifts & Prices  
+Roses: $2.08 - 12
+Chocolate: $14.50 - 1 box
+Teddy Bear: $19.99 - 1
+Perfume: $39.75 - 2 bottles 
+
+# Our Special Days  
+Anniversary: 2023-06-15  
+First Date: 2022-08-10  
+First "I love you": 2022-09-01  
+
+# Love Scoreboard
+Hugs Today: 15  
+Kisses Today: 20  
+Laughs Today: 30  
+
+# Temperature on Our Special Days  
+First Date: 28°C  
+First "I love you": 26°C  
+Anniversary: 29°C  
+Today: 30°C  
