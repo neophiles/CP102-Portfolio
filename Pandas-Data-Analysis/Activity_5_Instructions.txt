@@ -1,0 +1,10 @@
+1. Display country, year, sex, age, suicides/100k pop columns.
+2. Display the Philippines' suicide record. Display year, sex, age, suicides_n, and suicides/100k pop columns.
+3. Display the Philippines' suicide record in the year 2011. Display year, sex, age, suicides_n, and suicides/100k pop columns.
+4. Display the country with the highest suicide per 100k population in 2005.Display year, sex, age, and suicides/100k pop columns.
+5. Display the total suicide cases (suicides_n) and suicides/100k pop per year. Sort in descending order based on suicides_n.
+6. Display the total suicide cases (suicides_n) and suicides/100k pop per gender. Sort in descending order based on suicides_n.
+7. Display the total suicide cases (suicides_n) and suicides/100k pop per age. Sort in descending order based on suicides_n.
+8. Display the total suicide cases (suicides_n) per country and per year. Sort in descending order based on suicides_n.
+9. Display the total suicide cases in the Philippines based on year, gender, and age.
+10. Display the year and number of suicide cases that the Philippines has the highest number of combined suicide cases.
